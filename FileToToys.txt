@@ -1,10 +1,10 @@
-ID: 3, Name: rabbit, quantity: 6, frequency: 60
-ID: 1, Name: wolf, quantity: 2, frequency: 20
 ID: 2, Name: elephant, quantity: 2, frequency: 20
 ID: 3, Name: rabbit, quantity: 6, frequency: 60
 ID: 1, Name: wolf, quantity: 2, frequency: 20
 ID: 2, Name: elephant, quantity: 2, frequency: 20
+ID: 2, Name: elephant, quantity: 2, frequency: 20
 ID: 3, Name: rabbit, quantity: 6, frequency: 60
 ID: 3, Name: rabbit, quantity: 6, frequency: 60
-ID: 2, Name: elephant, quantity: 2, frequency: 20
-ID: 2, Name: elephant, quantity: 2, frequency: 20
+ID: 1, Name: wolf, quantity: 2, frequency: 20
+ID: 3, Name: rabbit, quantity: 6, frequency: 60
+ID: 1, Name: wolf, quantity: 2, frequency: 20
