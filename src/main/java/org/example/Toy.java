@@ -2,7 +2,6 @@ package org.example;
 
 public class Toy implements Comparable<Toy>{
 
-
     int id;
 
     String name; // тип игрушки
@@ -20,7 +19,6 @@ public class Toy implements Comparable<Toy>{
         this.quantity = quantity;
         this.frequency = frequency;
     }
-
 
     @Override
         public int compareTo(Toy o) {

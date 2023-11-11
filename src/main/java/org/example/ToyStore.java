@@ -12,7 +12,6 @@ public class ToyStore {
     private PriorityQueue<Toy> toyQueue = new PriorityQueue<>();
 
 
-
     public void put(int id, String name, int quantity, int frequency){
         // Создаем тип игрушки и добавляем в класс PriorityQueue в виде объектов
         Toy toy = new Toy(id, name, quantity, frequency);
@@ -60,6 +59,5 @@ public class ToyStore {
         toys.WriteToFile("FileToToys.txt", 10);
 
     }
-
 
 }
